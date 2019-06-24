@@ -1,1 +1,1 @@
-TEST
+print("To jest moja pierwsza linia w pytonie.")
